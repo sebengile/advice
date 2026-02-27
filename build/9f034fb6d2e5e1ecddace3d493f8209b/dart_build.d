@@ -1,0 +1,1 @@
+ D:\\MobileApplication\\advcely_tp\\build\\9f034fb6d2e5e1ecddace3d493f8209b\\dart_build_result.json:  C:\\flutter_windows_3.38.9-stable\\flutter\\bin\\cache\\dart-sdk\\version D:\\MobileApplication\\advcely_tp\\.dart_tool\\package_config.json D:\\MobileApplication\\advcely_tp\\pubspec.yaml d:\\mobileapplication\\advcely_tp\\.dart_tool\\package_config.json
